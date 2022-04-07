@@ -8,7 +8,7 @@
     },
 
     discord: {
-        token: 'OTMyODMzMDM1NjIyMTU4Mzc3.YeYudg.pJ0plZxcM_ydRnajFu4OSmTPRFI',
+        token: 'Your Token BOT',
         prefix: '>',
         activity: 'DarkForest',
     },
